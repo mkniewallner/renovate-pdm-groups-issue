@@ -1,0 +1,25 @@
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[project]
+name = "renovate-pdm-groups-issue"
+version = "0.1.0"
+description = ""
+authors = []
+requires-python = ">=3.11"
+dependencies = [
+    "orjson==3.8.12",
+    "starlette==0.27.0",
+]
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "pytest==7.3.1",
+    "pytest-cov==4.0.0",
+    "watchfiles==0.19.0",
+]
+typing = [
+    "mypy==1.3.0",
+    "types-redis==4.5.5.1",
+]
