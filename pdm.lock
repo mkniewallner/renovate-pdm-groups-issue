@@ -149,7 +149,7 @@ dependencies = [
 
 [[package]]
 name = "types-redis"
-version = "4.5.5.1"
+version = "4.6.0.0"
 summary = "Typing stubs for redis"
 dependencies = [
     "cryptography>=35.0.0",
@@ -175,7 +175,7 @@ dependencies = [
 lock_version = "4.2"
 cross_platform = true
 groups = ["default", "dev", "typing"]
-content_hash = "sha256:dbc72e58d8ddee86fe5b35365496be4d63ed084f5126dc7df12515067573bf4c"
+content_hash = "sha256:ad48ec3e03c6668053c01bae796229cff3711c937e332cedd50efe93d19276d1"
 
 [metadata.files]
 "anyio 3.6.2" = [
@@ -446,9 +446,9 @@ content_hash = "sha256:dbc72e58d8ddee86fe5b35365496be4d63ed084f5126dc7df12515067
     {url = "https://files.pythonhosted.org/packages/88/71/c0d92ea9c7c21b941306f97a3fcd85a6b57ff57f84d9ba16083cb2286664/types_pyOpenSSL-23.1.0.3-py3-none-any.whl", hash = "sha256:ad024b07a1f4bffbca44699543c71efd04733a6c22781fa9673a971e410a3086"},
     {url = "https://files.pythonhosted.org/packages/a5/f0/7c331aa7a58d421b41aaf69ca72a1633a7f3e724a8e3646a0b10357af16f/types-pyOpenSSL-23.1.0.3.tar.gz", hash = "sha256:e7211088eff3e20d359888dedecb0994f7181d5cce0f26354dd47ca0484dc8a6"},
 ]
-"types-redis 4.5.5.1" = [
-    {url = "https://files.pythonhosted.org/packages/31/49/d0ef2da84dcaaf8ab41008d178275d42a5fcda728f51c8f39aa9bcb5e43f/types_redis-4.5.5.1-py3-none-any.whl", hash = "sha256:569b9795618c95d5f8fad2156dceb622614162761b4382892b99c519c378f776"},
-    {url = "https://files.pythonhosted.org/packages/e2/49/83625239fc676470f1bd2ca27ad2c435a6ec37c1f22ebf69fd6fac5e0984/types-redis-4.5.5.1.tar.gz", hash = "sha256:0193d0522cccd6d46e9e17b811c30fc407e1800e0381da0e95f5c9239bdca58b"},
+"types-redis 4.6.0.0" = [
+    {url = "https://files.pythonhosted.org/packages/67/ca/92174c481b34d1f0720a07fe886f557037a3cbf511cdb5aae1050e63b331/types_redis-4.6.0.0-py3-none-any.whl", hash = "sha256:528038f32a0a2642e00d9c80dd95879a348ced6071bb747c746c0cb1ad06426c"},
+    {url = "https://files.pythonhosted.org/packages/79/64/95e4f4c2072df03424446ed77c26ffbdbffc63d6b7b7162037f117e7017d/types-redis-4.6.0.0.tar.gz", hash = "sha256:4ad588026d89ba72eae29b6276448ea117d77e5e4df258c0429d274da652ef9c"},
 ]
 "typing-extensions 4.6.2" = [
     {url = "https://files.pythonhosted.org/packages/38/60/300ad6f93adca578bf05d5f6cd1d854b7d140bebe2f9829561aa9977d9f3/typing_extensions-4.6.2-py3-none-any.whl", hash = "sha256:3a8b36f13dd5fdc5d1b16fe317f5668545de77fa0b8e02006381fd49d731ab98"},
